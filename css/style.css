@@ -52,6 +52,9 @@ p{
     margin: 100px auto;
     text-align: left;
 }
+.first{
+    background-color: #B5EAEA;
+}
 .middle-container{
     background-color: white;
 }
